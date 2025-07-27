@@ -1,4 +1,4 @@
-🚀 Job Market Skill Trends Dashboard
+#🚀 Job Market Skill Trends Dashboard
 
 A data-driven compass for navigating the evolving AI and tech job market.
 
